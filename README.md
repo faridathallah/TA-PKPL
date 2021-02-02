@@ -2,6 +2,9 @@
 Tugas Akhir Mata Kuliah RKS
 
 Pada Aplikasi kali ini berisi tentang Pembelian paket data internet yang saya buat dengan menggunakan Android Studio untuk membuat Front End nya.
+Pada Aplikasi ini saya mengikuti workflow , wireframe dan rancangan kebutuhan sistem yang dapat dilihat di tautan dibawah ini: 
+
+https://drive.google.com/drive/u/0/mobile/folders/1IrPDTv9hehAEJqSG0eT-l3ACCcoDV6gd?usp=sharing
 
 Berikut file file yg digunakan dan dimasukan pada folder berikut :
 
