@@ -1,5 +1,5 @@
-# rks
-Tugas Akhir Mata Kuliah RKS
+# TA-PKPL
+Tugas Akhir Mata Kuliah PKPL
 
 Pada Aplikasi kali ini berisi tentang Pembelian paket data internet yang saya buat dengan menggunakan Android Studio untuk membuat Front End nya.
 Pada Aplikasi ini saya mengikuti workflow , wireframe dan rancangan kebutuhan sistem yang dapat dilihat di tautan dibawah ini: 
